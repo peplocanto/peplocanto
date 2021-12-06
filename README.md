@@ -17,11 +17,11 @@ This Repo is bit of a blog, a portfolio and an hub of resources where share and 
 Enjoy! 🖖
 
 ## HUB
-- [Angular](https://github.com/peplocanto/peplocanto/blob/master/hub/angular/angular-index.md)
-- [React](https://github.com/peplocanto/peplocanto/blob/master/hub/react/react-index.md)
-- [Ionic](https://github.com/peplocanto/peplocanto/blob/master/hub/ionic/ionic-index.md)
-- [Stencil](https://github.com/peplocanto/peplocanto/blob/master/hub/stencil/stencil-index.md)
-- [Vanilla](https://github.com/peplocanto/peplocanto/blob/master/hub/vanilla/vanilla-index.md)
+- [Angular](./hub/angular/angular-index.md)
+- [React](./hub/react/react-index.md)
+- [Ionic](./hub/ionic/ionic-index.md)
+- [Stencil](./hub/stencil/stencil-index.md)
+- [Vanilla](./hub/vanilla/vanilla-index.md)
 
 ---
 <br>
