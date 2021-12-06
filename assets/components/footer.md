@@ -1,28 +1,3 @@
-# PepLocanto - HUB
-
-## About
-Hi, I'm Pep!
-
-<em>
-    When I was a child (a lot of time ago...) my answer to the question:<br>
-    "What do you want to do when you grow up?" always was:<br>
-    "I would like to solve math problems!"<br>
-    I think that programming is the closest thing to my childhood dream.
-</em><br><br>
-
-Senior FrontEnd Dev in Madrid, Spain.
-
-This Repo is bit of a blog, a portfolio and an hub of resources where share and discussing about coding.
-
-Enjoy! 🖖
-
-## HUB
-- [Angular](https://github.com/peplocanto/peplocanto/blob/master/hub/angular/angular-index.md)
-- [React](https://github.com/peplocanto/peplocanto/blob/master/hub/react/react-index.md)
-- [Ionic](https://github.com/peplocanto/peplocanto/blob/master/hub/ionic/ionic-index.md)
-- [Stencil](https://github.com/peplocanto/peplocanto/blob/master/hub/stencil/stencil-index.md)
-- [Vanilla](https://github.com/peplocanto/peplocanto/blob/master/hub/vanilla/vanilla-index.md)
-
 ---
 <br>
 <p align="center">
